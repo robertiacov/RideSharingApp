@@ -43,7 +43,6 @@ The app using following dart libraries:
   - Firebase_messaging - Flutter app can recive and process push notifications as well data messages on Android and IOS;
   - Toast - for not showing the messages only on console;
   - Intl - provide internationalization and localization facilities;
-  - 
 
 App screens:
 
