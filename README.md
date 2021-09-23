@@ -78,3 +78,7 @@ Driver screens:
 Screen from both devices:
 
 ![image](https://user-images.githubusercontent.com/52401139/134572289-0ab85046-357d-44f9-878a-9f5d857cb2b6.png)
+
+Full documentation here (Romanian language):
+
+[Aplicatie RideSharing.pdf](https://github.com/robert1564/RideSharingApp/files/7220446/Aplicatie.RideSharing.pdf)
