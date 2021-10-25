@@ -15,7 +15,7 @@ final CameraPosition googlePlex = CameraPosition(
   zoom: 14.4746,
 );
 
-String mapKey = 'AIzaSyAlQtqNSTnd-r7fg0PJpccZ2FFWLckeoUQ';
+String mapKey = '';
 
 DatabaseReference tripRequestRef;
 
