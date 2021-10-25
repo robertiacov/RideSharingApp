@@ -81,9 +81,9 @@
             android:value="2" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAlQtqNSTnd-r7fg0PJpccZ2FFWLckeoUQ" />
+            android:value="" />
 
-        <receiver android:name="com.github.florent37.assets_audio_player.notification.NotificationActionReceiver" />
+        <receiver android:name="" />
         <receiver android:name="androidx.media.session.MediaButtonReceiver" >
             <intent-filter>
                 <action android:name="android.intent.action.MEDIA_BUTTON" />
