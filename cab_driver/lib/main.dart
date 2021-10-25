@@ -17,16 +17,16 @@ Future<void> main() async {
     name: 'db2',
     options: Platform.isIOS || Platform.isMacOS
         ? FirebaseOptions(
-      appId: '1:297855924061:ios:c6de2b69b03a5be8',
-      apiKey: 'AIzaSyD_shO5mfO9lhy2TVWhfo1VUmARKlG4suk',
+      appId: '',
+      apiKey: '',
       projectId: 'flutter-firebase-plugins',
-      messagingSenderId: '297855924061',
+      messagingSenderId: '',
       databaseURL: 'https://flutterfire-cd2f7.firebaseio.com',
     )
         : FirebaseOptions(
-      appId: '1:551565578850:android:bbcbe40dfb23366719773b',
-      apiKey: 'AIzaSyAlQtqNSTnd-r7fg0PJpccZ2FFWLckeoUQ',
-      messagingSenderId: '297855924061',
+      appId: '',
+      apiKey: '',
+      messagingSenderId: '',
       projectId: 'flutter-firebase-plugins',
       databaseURL: 'https://geetaxi-a5338.firebaseio.com',
     ),
